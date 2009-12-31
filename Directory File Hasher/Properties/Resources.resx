@@ -125,6 +125,10 @@
     <value>"File","Date Modified","MD5Sum"</value>
     <comment>Header for output to CSV file</comment>
   </data>
+  <data name="errorHandlerCaption" xml:space="preserve">
+    <value>Error</value>
+    <comment>Displayed in error boxes</comment>
+  </data>
   <data name="idleStatusLabel" xml:space="preserve">
     <value>Ready</value>
     <comment>Displayed in the status strip when idle.</comment>

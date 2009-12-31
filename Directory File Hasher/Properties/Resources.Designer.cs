@@ -77,6 +77,15 @@ namespace Directory_File_Hasher.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Error.
+        /// </summary>
+        internal static string errorHandlerCaption {
+            get {
+                return ResourceManager.GetString("errorHandlerCaption", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ready.
         /// </summary>
         internal static string idleStatusLabel {
