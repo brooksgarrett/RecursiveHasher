@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Directory_File_Hasher
+namespace com.brooksgarrett.RecursiveHasher
 {
     static class Program
     {

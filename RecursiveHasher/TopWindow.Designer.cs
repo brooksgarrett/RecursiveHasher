@@ -1,4 +1,4 @@
-﻿namespace Directory_File_Hasher
+﻿namespace com.brooksgarrett.RecursiveHasher
 {
     partial class fmMain
     {
@@ -159,7 +159,7 @@
             // 
             // lblToolStripStatus
             // 
-            this.lblToolStripStatus.Image = global::Directory_File_Hasher.Properties.Resources.checkmark_16x16;
+            this.lblToolStripStatus.Image = global::com.brooksgarrett.RecursiveHasher.Properties.Resources.checkmark_16x16;
             this.lblToolStripStatus.Name = "lblToolStripStatus";
             this.lblToolStripStatus.Size = new System.Drawing.Size(58, 17);
             this.lblToolStripStatus.Text = "Ready.";

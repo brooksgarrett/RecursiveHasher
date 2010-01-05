@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory File Hasher", "Directory File Hasher\Directory File Hasher.csproj", "{9E45D0C9-ED98-47D4-B279-01C180EC8FBC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveHasher", "RecursiveHasher\RecursiveHasher.csproj", "{9E45D0C9-ED98-47D4-B279-01C180EC8FBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

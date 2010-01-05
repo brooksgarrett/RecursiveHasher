@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Security.Cryptography;
 using System.Threading;
 
-namespace Directory_File_Hasher
+namespace com.brooksgarrett.RecursiveHasher
 {
     public partial class fmMain : Form
     {
